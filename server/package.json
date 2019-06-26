@@ -1,6 +1,6 @@
 {
-  "name": "eventually",
-  "version": "1.0.0",
+  "name": "eventually-server",
+  "version": "0.1.0",
   "description": "event planning app",
   "main": "index.js",
   "scripts": {

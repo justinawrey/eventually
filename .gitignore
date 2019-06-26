@@ -1,6 +1,8 @@
 # server
-server/node_modules/**
-server/dist/**
+server/node_modules
+client/node_modules
+server/dist
+client/dist
 
 # other
 **/.DS_Store
